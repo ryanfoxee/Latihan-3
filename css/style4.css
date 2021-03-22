@@ -1,0 +1,26 @@
+.container{
+    width: 800px;
+    border: 1px solid black;
+    margin: auto;
+}
+
+.container .satu{
+    width: 150px;
+    height: 100px;
+    float: left;
+    background-color: tomato;
+}
+
+.container .dua{
+    width: 500px;
+    height: 100px;
+    float: left;
+    background-color: violet;
+}
+
+.container .tiga{
+    width: 150px;
+    height: 100px;
+    float: left;
+    background-color: yellow;
+}
